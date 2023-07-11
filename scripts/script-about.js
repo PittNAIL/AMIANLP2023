@@ -26,20 +26,26 @@
 const guests = {
   guest1: {
     name: 'Yanshan Wang, PhD, FAMIA',
-    occupation: 'Chair Elect',
+    occupation: 'Chair',
     description: 'Assistant Professor and Vice-Chair of Research, University of Pittsburgh, PA',
     picture: 'src/naoshi.png',
   },
   guest2: {
-    name: 'Dina Demner-Fushman, MD, PhD ',
+    name: 'Satya Sahoo, PhD',
     occupation: 'Chair',
-    description: 'National Library of Medicine, Bethesda, MD.',
+    description: 'Associate Professor, Case Western Reserve University, Cleveland, OH',
     picture: 'src/adachi.png',
   },
   guest3: {
-    name: 'Özlem Uzuner, PhD, FACMI',
+    name: 'Joseph M. Plasek, PhD',
+    occupation: 'Secretary',
+    description: 'Postdoc, Mass General Brigham, Boston, MA',
+    picture: 'src/adachi.png',
+  },
+  guest4: {
+    name: 'Dina Demner-Fushman, MD, PhD ',
     occupation: 'Past-Chair',
-    description: 'George Mason University, Fairfax, Virginia',
+    description: 'National Library of Medicine, Bethesda, MD.',
     picture: 'src/adachi.png',
   // },
   // guest4: {
