@@ -39,7 +39,7 @@ const guests = {
   guest3: {
     name: 'Joseph M. Plasek, PhD',
     occupation: 'Secretary',
-    description: 'Postdoc, Mass General Brigham, Boston, MA',
+    description: 'Mass General Brigham, Boston, MA',
     picture: 'src/adachi.png',
   },
   guest4: {
