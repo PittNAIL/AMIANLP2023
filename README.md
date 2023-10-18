@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Natural Language Processing Working Group Pre-Symposium: 
-Graduate Student Consortium, Tutorial on ChatGPT and Prompt Engineering, Lighting Talk on State-of-the-art Biomedical and Clinical NLP, and a Bridge2AI Ethics Panel
+Graduate Student Consortium, Lighting Talk on State-of-the-art Biomedical and Clinical NLP, and Tutorial on ChatGPT and Prompt Engineering
 
 
 This is the webiste for AMIA NLP Pre-Symposium 2022
